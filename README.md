@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I'm currently learning at University of Science HCM city
+- 🌱 I'm currently working on developer at Hybrid Solutions VN
 
